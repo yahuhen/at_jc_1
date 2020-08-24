@@ -1,4 +1,4 @@
-package main.java.people;
+package main.java.day2.people;
 
 
 public class Man {

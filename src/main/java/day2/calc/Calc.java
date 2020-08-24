@@ -1,4 +1,4 @@
-package main.java.calc;
+package main.java.day2.calc;
 
 public class Calc {
 
